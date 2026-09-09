@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Wahid Hussain
+# 👋 Hey, I'm Wahid
 
 ### 🎓 Computer Science @ UIUC · ☁️ Cloud Administrator · ⚡ PowerShell Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-wahidthebot-181717?style=for-the-badge&logo=github)](https://github.com/wahidthebot)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahid%20Hussain-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wahid-hussain-bb2808288/)
 [![Instagram](https://img.shields.io/badge/Instagram-wahid__da__osas-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/wahid_da_osas)
 
